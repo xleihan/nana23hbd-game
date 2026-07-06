@@ -1,0 +1,245 @@
+[
+  {
+    "id": "song_03",
+    "index": "03",
+    "title": "act v： there goes another vase",
+    "artist": "4Batz",
+    "audioUrl": "/songs/03%20-%204Batz%20-%20act%20v%EF%BC%9A%20there%20goes%20another%20vase%20(Official%20Music%20Video).mp3",
+    "fileName": "03 - 4Batz - act v： there goes another vase (Official Music Video).mp3",
+    "defaultDifficulty": "easy"
+  },
+  {
+    "id": "song_03",
+    "index": "03",
+    "title": "Confident ft. Chance The Rapper",
+    "artist": "Justin Bieber",
+    "audioUrl": "/songs/03%20-%20Justin%20Bieber%20-%20Confident%20ft.%20Chance%20The%20Rapper.mp3",
+    "fileName": "03 - Justin Bieber - Confident ft. Chance The Rapper.mp3",
+    "defaultDifficulty": "easy"
+  },
+  {
+    "id": "song_04",
+    "index": "04",
+    "title": "Cat! ⧸Do wyw",
+    "artist": "ZAEK",
+    "audioUrl": "/songs/04%20-%20ZAEK%20-%20Cat!%20%E2%A7%B8Do%20wyw%20%5B%20Official%20Music%20Video%20%5D.mp3",
+    "fileName": "04 - ZAEK - Cat! ⧸Do wyw [ Official Music Video ].mp3",
+    "defaultDifficulty": "normal"
+  },
+  {
+    "id": "song_05",
+    "index": "05",
+    "title": "So I Danced  ｜ Dear Insanity...",
+    "artist": "DPR IAN",
+    "audioUrl": "/songs/05%20-%20DPR%20IAN%20-%20So%20I%20Danced%20(Official%20Music%20Video)%20%EF%BD%9C%20Dear%20Insanity....mp3",
+    "fileName": "05 - DPR IAN - So I Danced (Official Music Video) ｜ Dear Insanity....mp3",
+    "defaultDifficulty": "hard"
+  },
+  {
+    "id": "song_07",
+    "index": "07",
+    "title": "Thomeboydontkill ＂再堅固的感情 都能說散就散＂",
+    "artist": "我唉你 (lilth3)",
+    "audioUrl": "/songs/07%20-%20%E6%88%91%E5%94%89%E4%BD%A0%20(lilth3)%20-%20Thomeboydontkill%20%EF%BC%82%E5%86%8D%E5%A0%85%E5%9B%BA%E7%9A%84%E6%84%9F%E6%83%85%20%E9%83%BD%E8%83%BD%E8%AA%AA%E6%95%A3%E5%B0%B1%E6%95%A3%EF%BC%82%EF%BC%BB%E4%B8%AD%E6%96%87%E6%AD%8C%E8%A9%9E%20-%20lyrics%20video%EF%BC%BD.mp3",
+    "fileName": "07 - 我唉你 (lilth3) - Thomeboydontkill ＂再堅固的感情 都能說散就散＂［中文歌詞 - lyrics video］.mp3",
+    "defaultDifficulty": "normal"
+  },
+  {
+    "id": "song_13",
+    "index": "13",
+    "title": "Half The Plot",
+    "artist": "Lil Tecca",
+    "audioUrl": "/songs/13%20-%20Lil%20Tecca%20-%20Half%20The%20Plot%20(Official%20Video).mp3",
+    "fileName": "13 - Lil Tecca - Half The Plot (Official Video).mp3",
+    "defaultDifficulty": "normal"
+  },
+  {
+    "id": "song_14",
+    "index": "14",
+    "title": "The Truth",
+    "artist": "Lil Tecca",
+    "audioUrl": "/songs/14%20-%20Lil%20Tecca%20-%20The%20Truth%20(Official%20Visualizer).mp3",
+    "fileName": "14 - Lil Tecca - The Truth (Official Visualizer).mp3",
+    "defaultDifficulty": "hard"
+  },
+  {
+    "id": "song_15",
+    "index": "15",
+    "title": "One Time",
+    "artist": "Justin Bieber",
+    "audioUrl": "/songs/15%20-%20Justin%20Bieber%20-%20One%20Time%20(Official%20Music%20Video).mp3",
+    "fileName": "15 - Justin Bieber - One Time (Official Music Video).mp3",
+    "defaultDifficulty": "easy"
+  },
+  {
+    "id": "song_16",
+    "index": "16",
+    "title": "Dark Thoughts",
+    "artist": "Lil Tecca",
+    "audioUrl": "/songs/16%20-%20Lil%20Tecca%20-%20Dark%20Thoughts%20(Official%20Video).mp3",
+    "fileName": "16 - Lil Tecca - Dark Thoughts (Official Video).mp3",
+    "defaultDifficulty": "normal"
+  },
+  {
+    "id": "song_18",
+    "index": "18",
+    "title": "Die For You (Remix ⧸ Lyric Video)",
+    "artist": "The Weeknd, Ariana Grande",
+    "audioUrl": "/songs/18%20-%20The%20Weeknd%2C%20Ariana%20Grande%20-%20Die%20For%20You%20(Remix%20%E2%A7%B8%20Lyric%20Video).mp3",
+    "fileName": "18 - The Weeknd, Ariana Grande - Die For You (Remix ⧸ Lyric Video).mp3",
+    "defaultDifficulty": "easy"
+  },
+  {
+    "id": "song_18",
+    "index": "18",
+    "title": "＂The Man＂",
+    "artist": "Westwood",
+    "audioUrl": "/songs/18%20-%20Westwood%20-%20%EF%BC%82The%20Man%EF%BC%82%20(OFFICIAL%20MUSIC%20VIDEO).mp3",
+    "fileName": "18 - Westwood - ＂The Man＂ (OFFICIAL MUSIC VIDEO).mp3",
+    "defaultDifficulty": "easy"
+  },
+  {
+    "id": "song_21",
+    "index": "21",
+    "title": "Open Arms  ft. Travis Scott",
+    "artist": "SZA",
+    "audioUrl": "/songs/21%20-%20SZA%20-%20Open%20Arms%20(Official%20Audio)%20ft.%20Travis%20Scott.mp3",
+    "fileName": "21 - SZA - Open Arms (Official Audio) ft. Travis Scott.mp3",
+    "defaultDifficulty": "easy"
+  },
+  {
+    "id": "song_22",
+    "index": "22",
+    "title": "花園裡的流星雨 Meteor Shower",
+    "artist": "Karencici",
+    "audioUrl": "/songs/22%20-%20Karencici%20-%20%E8%8A%B1%E5%9C%92%E8%A3%A1%E7%9A%84%E6%B5%81%E6%98%9F%E9%9B%A8%20Meteor%20Shower(Official%20Music%20Video).mp3",
+    "fileName": "22 - Karencici - 花園裡的流星雨 Meteor Shower(Official Music Video).mp3",
+    "defaultDifficulty": "normal"
+  },
+  {
+    "id": "song_23",
+    "index": "23",
+    "title": "Know No Better (Visualizer) ft. Da Baby",
+    "artist": "Justin Bieber",
+    "audioUrl": "/songs/23%20-%20Justin%20Bieber%20-%20Know%20No%20Better%20(Visualizer)%20ft.%20Da%20Baby.mp3",
+    "fileName": "23 - Justin Bieber - Know No Better (Visualizer) ft. Da Baby.mp3",
+    "defaultDifficulty": "hard"
+  },
+  {
+    "id": "song_26",
+    "index": "26",
+    "title": "Feel A Way  ft. Don Toliver",
+    "artist": "KAYTRANADA",
+    "audioUrl": "/songs/26%20-%20KAYTRANADA%20-%20Feel%20A%20Way%20(Official%20Audio)%20ft.%20Don%20Toliver.mp3",
+    "fileName": "26 - KAYTRANADA - Feel A Way (Official Audio) ft. Don Toliver.mp3",
+    "defaultDifficulty": "hard"
+  },
+  {
+    "id": "song_26",
+    "index": "26",
+    "title": "i'm like that ft. 로꼬 (Loco)",
+    "artist": "Karencici",
+    "audioUrl": "/songs/26%20-%20Karencici%20-%20i'm%20like%20that%20ft.%20%EB%A1%9C%EA%BC%AC%20(Loco)%20%5BOfficial%20Music%20Video%5D.mp3",
+    "fileName": "26 - Karencici - i'm like that ft. 로꼬 (Loco) [Official Music Video].mp3",
+    "defaultDifficulty": "hard"
+  },
+  {
+    "id": "song_28",
+    "index": "28",
+    "title": "Die For You",
+    "artist": "Joji",
+    "audioUrl": "/songs/28%20-%20Joji%20-%20Die%20For%20You.mp3",
+    "fileName": "28 - Joji - Die For You.mp3",
+    "defaultDifficulty": "normal"
+  },
+  {
+    "id": "song_28",
+    "index": "28",
+    "title": "Die With A Smile",
+    "artist": "Lady Gaga, Bruno Mars",
+    "audioUrl": "/songs/28%20-%20Lady%20Gaga%2C%20Bruno%20Mars%20-%20Die%20With%20A%20Smile%20(Official%20Music%20Video).mp3",
+    "fileName": "28 - Lady Gaga, Bruno Mars - Die With A Smile (Official Music Video).mp3",
+    "defaultDifficulty": "normal"
+  },
+  {
+    "id": "song_30",
+    "index": "30",
+    "title": "Kill Bill",
+    "artist": "SZA",
+    "audioUrl": "/songs/30%20-%20SZA%20-%20Kill%20Bill%20(Official%20Video).mp3",
+    "fileName": "30 - SZA - Kill Bill (Official Video).mp3",
+    "defaultDifficulty": "easy"
+  },
+  {
+    "id": "song_33",
+    "index": "33",
+    "title": "1 AM",
+    "artist": "未知歌手",
+    "audioUrl": "/songs/33%20-%201%20AM.mp3",
+    "fileName": "33 - 1 AM.mp3",
+    "defaultDifficulty": "easy"
+  },
+  {
+    "id": "song_35",
+    "index": "35",
+    "title": "SEX TAPE",
+    "artist": "ØZI × 落日飛車 Sunset Rollercoaster",
+    "audioUrl": "/songs/35%20-%20%C3%98ZI%20%C3%97%20%E8%90%BD%E6%97%A5%E9%A3%9B%E8%BB%8A%20Sunset%20Rollercoaster%20-%20SEX%20TAPE%20(Music%20Video).mp3",
+    "fileName": "35 - ØZI × 落日飛車 Sunset Rollercoaster - SEX TAPE (Music Video).mp3",
+    "defaultDifficulty": "hard"
+  },
+  {
+    "id": "song_38",
+    "index": "38",
+    "title": "纵容",
+    "artist": "未知歌手",
+    "audioUrl": "/songs/38%20-%20%E7%BA%B5%E5%AE%B9.mp3",
+    "fileName": "38 - 纵容.mp3",
+    "defaultDifficulty": "hard"
+  },
+  {
+    "id": "song_40",
+    "index": "40",
+    "title": "Let It",
+    "artist": "CL",
+    "audioUrl": "/songs/40%20-%20CL%20-%20Let%20It%20(Official%20Video).mp3",
+    "fileName": "40 - CL - Let It (Official Video).mp3",
+    "defaultDifficulty": "normal"
+  },
+  {
+    "id": "song_47",
+    "index": "47",
+    "title": "愛愛愛",
+    "artist": "Khalil Fong (方大同)",
+    "audioUrl": "/songs/47%20-%20Khalil%20Fong%20(%E6%96%B9%E5%A4%A7%E5%90%8C)%20-%20%E6%84%9B%E6%84%9B%E6%84%9B%20Official%20Music%20Video.mp3",
+    "fileName": "47 - Khalil Fong (方大同) - 愛愛愛 Official Music Video.mp3",
+    "defaultDifficulty": "hard"
+  },
+  {
+    "id": "song_ne77b",
+    "index": "",
+    "title": "JPM▼365天▼官方完整版Official  (HD)",
+    "artist": "未知歌手",
+    "audioUrl": "/songs/JPM%E2%96%BC365%E5%A4%A9%E2%96%BC%E5%AE%98%E6%96%B9%E5%AE%8C%E6%95%B4%E7%89%88Official%20MV%20(HD).mp3",
+    "fileName": "JPM▼365天▼官方完整版Official MV (HD).mp3",
+    "defaultDifficulty": "easy"
+  },
+  {
+    "id": "song_gdkr9",
+    "index": "",
+    "title": "JPM《月球漫步》",
+    "artist": "未知歌手",
+    "audioUrl": "/songs/JPM%E3%80%8A%E6%9C%88%E7%90%83%E6%BC%AB%E6%AD%A5%E3%80%8BMV.mp3",
+    "fileName": "JPM《月球漫步》MV.mp3",
+    "defaultDifficulty": "easy"
+  },
+  {
+    "id": "song_gocna",
+    "index": "",
+    "title": "保庇 BOBEE 官方完整版 [HQ]",
+    "artist": "王彩樺",
+    "audioUrl": "/songs/%E7%8E%8B%E5%BD%A9%E6%A8%BA%20-%20%E4%BF%9D%E5%BA%87%20BOBEE%20%E5%AE%98%E6%96%B9%E5%AE%8C%E6%95%B4%E7%89%88MV%20%5BHQ%5D.mp3",
+    "fileName": "王彩樺 - 保庇 BOBEE 官方完整版MV [HQ].mp3",
+    "defaultDifficulty": "easy"
+  }
+]
