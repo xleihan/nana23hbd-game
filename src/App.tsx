@@ -45,7 +45,8 @@ export default function App() {
 
     try {
       setLoadingStep('正在讀取本機慶生歌單...');
-      const relativeAudioUrl = song.audioUrl.startsWith('/') ? song.audioUrl.slice(1) : song.audioUrl;
+      const decodedUrl = decodeURIComponent(song.audioUrl);
+      const relativeAudioUrl = decodedUrl.startsWith('/') ? decodedUrl.slice(1) : decodedUrl;
       const response = await fetch(relativeAudioUrl);
       if (!response.ok) {
         throw new Error(`無法載入音訊檔案: ${response.statusText}`);
