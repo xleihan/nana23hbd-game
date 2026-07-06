@@ -6,18 +6,9 @@ coverage/
 *.log
 .env*
 !.env.example
-
-# Xcode / Mac build files
-Derived/
-.vscode/
-
-# Antigravity / AI Agent temporary folders
-.GEMINI
 .antigravity/
-metadata.json
-skills-lock.json
-
-# Giant files and private media (avoid GitHub push limit)
+.GEMINI
 look bool vol1 pdf.pdf
 nana生日影片/
 歌曲/
+Derived/
