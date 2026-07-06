@@ -1,0 +1,14 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+.antigravity/
+.GEMINI
+look bool vol1 pdf.pdf
+nana生日影片/
+歌曲/
+Derived/
