@@ -124,7 +124,7 @@ export function Menu({ songs, onSelectLibrarySong, onSelectCustomSong, errorMsg 
           {/* Logo 圖片與大標題 */}
           <div className="flex flex-col items-center gap-3">
             <div className="border-4 border-kirby-border rounded-3xl overflow-hidden y2k-shadow-black glow-border-red bg-white p-2 max-w-[150px]">
-              <img src="/logo.jpg" alt="Logo" className="w-full h-auto rounded-2xl" />
+              <img src="logo.jpg" alt="Logo" className="w-full h-auto rounded-2xl" />
             </div>
             <h1 className="text-3xl md:text-4xl font-black tracking-tight text-kirby-border uppercase italic glow-text-red">
               ONLY 音GAME大師 <span className="text-kirby-pink-dark">NANA</span> 🎂

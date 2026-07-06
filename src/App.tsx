@@ -45,7 +45,8 @@ export default function App() {
 
     try {
       setLoadingStep('正在讀取本機慶生歌單...');
-      const response = await fetch(song.audioUrl);
+      const relativeAudioUrl = song.audioUrl.startsWith('/') ? song.audioUrl.slice(1) : song.audioUrl;
+      const response = await fetch(relativeAudioUrl);
       if (!response.ok) {
         throw new Error(`無法載入音訊檔案: ${response.statusText}`);
       }
@@ -67,7 +68,7 @@ export default function App() {
         throw new Error("本機音訊分析失敗，無法產生有效節奏點。");
       }
 
-      setAudioUrl(song.audioUrl);
+      setAudioUrl(relativeAudioUrl);
       // 過濾掉前 3 秒以內（符合原本遊戲邏輯）
       const filteredBeatmap = generatedBeatmap.filter(n => n.time >= 3);
       setBeatmap(filteredBeatmap);
@@ -232,7 +233,7 @@ export default function App() {
               <div className="relative z-10 space-y-10 max-w-sm w-full">
                 {/* 提取的 Logo 圖片 */}
                 <div className="relative inline-block mx-auto border-4 border-kirby-border y2k-shadow-black rounded-3xl overflow-hidden glow-border-red bg-white p-2 max-w-[220px]">
-                  <img src="/logo.jpg" alt="Logo" className="w-full h-auto rounded-2xl" />
+                  <img src="logo.jpg" alt="Logo" className="w-full h-auto rounded-2xl" />
                   <div className="absolute -top-3 -right-3 w-8 h-8 text-kirby-yellow animate-star-pulse">
                     <svg viewBox="0 0 24 24" fill="currentColor">
                       <path d="M12 .587l3.668 7.431 8.2 1.192-5.934 5.787 1.4 8.168L12 18.896l-7.334 3.857 1.4-8.168L.132 9.21l8.2-1.192z"/>
